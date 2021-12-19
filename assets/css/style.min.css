@@ -597,7 +597,7 @@ ul:last-child {
     }
     .header-brand .logo img {
         max-height: 80px;
-        -webkit-filter: brightness(198%);
+        -webkit-filter: brightness(1980%);
     }
     .site-header a:not(.btn) {
         color: #fff;
